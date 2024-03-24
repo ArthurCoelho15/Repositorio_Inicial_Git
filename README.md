@@ -39,3 +39,5 @@ git clone [URL]
     adiciona um repositório remoto 
 'git push add origin main'
     Efetua um push com as alterações locais para o repositório online (github)
+'git tag -a [nome_da_tag] -m [escreve_uma_msg]
+    Cria um 'backup' de versão atual, serve pra se eu fizer modificação grande e der ruim eu posso voltar pra uma versao boa
