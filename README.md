@@ -1,7 +1,7 @@
 # Repositorio_Inicial_Git
 Repositório criado para estudar git, aulas iniciais da DIO
 
-//Comandos git
+// Comandos git
 
 'git init' 
     Inicia um novo repositório git na pasta atual
@@ -41,3 +41,18 @@ git clone [URL]
     Efetua um push com as alterações locais para o repositório online (github)
 'git tag -a [nome_da_tag] -m [escreve_uma_msg]
     Cria um 'backup' de versão atual, serve pra se eu fizer modificação grande e der ruim eu posso voltar pra uma versao boa
+
+
+## Prática
+
+// Fazendo coisa local
+
+** Salvar versão
+git tag -a [escreve o nome aq] -m "da teu papo"
+Salvou a versão **
+
+git add. 
+git status
+git commit -m "escreve o papo"
+git push origin [a branch que tu quer]
+
