@@ -43,9 +43,16 @@ git clone [URL]
     Cria um 'backup' de versão atual, serve pra se eu fizer modificação grande e der ruim eu posso voltar pra uma versao boa
 
 # Conceitos
-Tag = cria uma versão completa do código, coisa grande
+
+Fork = serve pra tu "clonar" o repositório de alguém, depois tu manda um pull request pra pessoa informando oq alterou, se ela quiser aceitar aceita.
+Pode ser pra fazer uma melhoria em um código aberto
+
+Tag = cria uma versão completa do código, coisa grande.
 git tag -a [escreve_nome_que_quiser] -m "da o teu papo"
-Realese = cria uma versão do código mais detalhada, ex atualizações
+
+Realese = cria uma versão do código mais detalhada, ex atualizações.
+
+Gist = Trecho de código, parece um repositório mas bem menor.
 
 # Prática
 
