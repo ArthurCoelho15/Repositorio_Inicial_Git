@@ -42,14 +42,14 @@ git clone [URL]
 'git tag -a [nome_da_tag] -m [escreve_uma_msg]
     Cria um 'backup' de versão atual, serve pra se eu fizer modificação grande e der ruim eu posso voltar pra uma versao boa
 
+# Conceitos
+Tag = cria uma versão completa do código, coisa grande
+git tag -a [escreve_nome_que_quiser] -m "da o teu papo"
+Realese = cria uma versão do código mais detalhada, ex atualizações
 
-## Prática
+# Prática
 
 // Fazendo coisa local
-
-** Salvar versão
-git tag -a [escreve o nome aq] -m "da teu papo"
-Salvou a versão **
 
 git add. 
 git status
