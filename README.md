@@ -1,7 +1,8 @@
 # Repositorio_Inicial_Git
 Repositório criado para estudar git, aulas iniciais da DIO
+<!-- pra botar emogi é Windows + . -->
 
-## Comandos git
+## Comandos git 💻
 
 1. git init 
     - Inicia um novo repositório git na pasta atual
@@ -60,7 +61,7 @@ Repositório criado para estudar git, aulas iniciais da DIO
 19. git tag -a [nome_da_tag] -m [escreve_uma_msg]
     - Cria um 'backup' de versão atual, serve pra se eu fizer modificação grande e der ruim eu posso voltar pra uma versao boa
 
-# Conceitos
+# Conceitos 📘
 
 1. Fork
     - Serve pra tu "clonar" o repositório de alguém, depois tu manda um pull request pra pessoa informando oq alterou, se ela quiser aceitar aceita.
@@ -85,7 +86,7 @@ Repositório criado para estudar git, aulas iniciais da DIO
     - Documenta de forma mais organizada e profissional, NÃO é um readme.
     - As wikis funcionam detalhar cada etapa do projeto, testes, atualizações, correção de bugs, etc.
 
-# Prática
+# Prática 🧨
 
 ## Fazendo coisa local 
 
@@ -116,7 +117,7 @@ git push origin [a branch que tu quer]
 6. '###### descrição 4'
 
 
-## Formatação de frase/palavra
+## Formatação de frase/palavra ✍
 
 *italico* ou __italico__
 
@@ -124,7 +125,7 @@ git push origin [a branch que tu quer]
 
 ___italico e negrito___ 
 
-## Formatação de texto
+## Formatação de texto 📑
 
 - Lista 1
 - Lista 2
@@ -134,7 +135,7 @@ ___italico e negrito___
 2. Lista 2
     1. Sublista
 
-## Links e imagem
+## Links e imagem 🖼
 
 1. [Texto da imagem](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
