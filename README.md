@@ -54,7 +54,7 @@ Repositório criado para estudar git, aulas iniciais da DIO
 17. git remote add [nome-remoto] [URL]
     - adiciona um repositório remoto 
 
-18. git push add origin main
+18. git push origin main
     - Efetua um push com as alterações locais para o repositório online (github)
 
 19. git tag -a [nome_da_tag] -m [escreve_uma_msg]
@@ -81,8 +81,9 @@ Repositório criado para estudar git, aulas iniciais da DIO
     - Da pra botar imagem pra explicar melhor, definir quem vai resolver isso, botar uma tag pra organizar melhor, etc.
     - Da pra criar o arquivo e dps de commitado tu altera o nome e bota 'fixed [tag]' ex.  'fixed #3'.
 
-Wikis = Documenta de forma mais organizada e profissional, NÃO é um readme.
-As wikis funcionam detalhar cada etapa do projeto, testes, atualizações, correção de bugs, etc.
+6. Wikis
+    - Documenta de forma mais organizada e profissional, NÃO é um readme.
+    - As wikis funcionam detalhar cada etapa do projeto, testes, atualizações, correção de bugs, etc.
 
 # Prática
 
@@ -110,9 +111,9 @@ git push origin [a branch que tu quer]
 1. '# Título'
 2. '## Subtítulo'
 3. '### descrição'
-4. '#### descriçã 2'
-5. '##### descriçã 3'
-6. '###### descriçã 4'
+4. '#### descrição 2'
+5. '##### descrição 3'
+6. '###### descrição 4'
 
 
 ## Formatação de frase/palavra
@@ -135,6 +136,6 @@ ___italico e negrito___
 
 ## Links e imagem
 
-1. [Texto da imagem](URL)
+1. [Texto da imagem](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
-2. ![Texto da imagem, vai mostrar a imagem aqui](URL)
+2. ![Texto da imagem, vai mostrar a imagem aqui](https://foundations.projectpythia.org/_images/GitHub-logo.png)
