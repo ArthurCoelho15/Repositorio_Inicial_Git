@@ -56,7 +56,7 @@ Gist = Trecho de código, parece um repositório mas bem menor.
 
 # Prática
 
-// Fazendo coisa local
+// Fazendo coisa local teste
 
 git add. 
 git status
