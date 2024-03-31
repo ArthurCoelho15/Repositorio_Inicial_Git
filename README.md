@@ -2,7 +2,7 @@
 Repositório criado para estudar git, aulas iniciais da DIO
 <!-- pra botar emogi é Windows + . -->
 
-## Comandos git 💻
+## Comandos git1 💻
 
 1. git init 
     - Inicia um novo repositório git na pasta atual
