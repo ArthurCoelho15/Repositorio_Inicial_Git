@@ -74,6 +74,10 @@ Gist = Trecho de código, parece um repositório mas bem menor.
 
 Issue = serve para surgerir alterações, correção de bugs, etc. 
 Da pra botar imagem pra explicar melhor, definir quem vai resolver isso, botar uma tag pra organizar melhor, etc.
+da pra criar o arquivo e dps de commitado tu altera o nome e bota 'fixed [tag]' ex.  'fixed #3'.
+
+Wikis = Documenta de forma mais organizada e profissional, NÃO é um readme.
+As wikis funcionam detalhar cada etapa do projeto, testes, atualizações, correção de bugs, etc.
 
 # Prática
 
