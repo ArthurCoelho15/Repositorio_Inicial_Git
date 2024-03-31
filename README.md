@@ -1,63 +1,63 @@
 # Repositorio_Inicial_Git
 Repositório criado para estudar git, aulas iniciais da DIO
 
-// Comandos git
+## Comandos git
 
-'git init' 
-    Inicia um novo repositório git na pasta atual
+1.'git init' 
+    - Inicia um novo repositório git na pasta atual
 
-git clone [URL]
-    Clona um repositório git existente para a pasta atual
+2. git clone [URL]
+    - Clona um repositório git existente para a pasta atual
 
-'git add .' 
-    Adiciona as alterações e prepara para o commit.
+3. 'git add .' 
+    1. Adiciona as alterações e prepara para o commit.
 
-'git commit -m "escreve algo sobre"'
+4. 'git commit -m "escreve algo sobre"'
     Realiza um commit com as alterações com a descrição
 
-'git status'
+5. 'git status'
     exibe o estado atual do repositório, mostra os arquivos modificados.
 
-'git log'
+6. 'git log'
     mostra o histório de commit
 
-'git branch'
+7. 'git branch'
     lista as branchs locais e destaca a atual
 
-'git branch [nome da branch]'
+8. 'git branch [nome da branch]'
     cria uma branch
 
-'git checkout [nome da branch]'
+9. 'git checkout [nome da branch]'
     altera pra essa branch
 
-'git merge [branch]'
+10. 'git merge [branch]'
     combina as alterações de uma branch com a branch atual
 
-'git pull'
+11. 'git pull'
     atualiza as alterações do repositório atual com o remoto
 
-'git remote -v'
+12. 'git remote -v'
     Lista os repositórios remotos
 
-'git fetch'
+13. 'git fetch'
     recupera as últimas alterações do repositório remoto
 
-'git reset [arquivo]'
+14. 'git reset [arquivo]'
     desfaz as alterações no arquivo, remove do índice
 
-'git rm [arquivo]'
+15. 'git rm [arquivo]'
     Remove um arquivo da pasta atual e inclui no próximo commit
 
-'git diff'
+16. 'git diff'
     Mostra as diferenças entre as alterações que ainda não foram adicionadas ao índice
 
-'git remote add [nome-remoto] [URL]'
+17. 'git remote add [nome-remoto] [URL]'
     adiciona um repositório remoto 
 
-'git push add origin main'
+18. 'git push add origin main'
     Efetua um push com as alterações locais para o repositório online (github)
 
-'git tag -a [nome_da_tag] -m [escreve_uma_msg]
+19. 'git tag -a [nome_da_tag] -m [escreve_uma_msg]
     Cria um 'backup' de versão atual, serve pra se eu fizer modificação grande e der ruim eu posso voltar pra uma versao boa
 
 # Conceitos
@@ -94,3 +94,39 @@ git push origin [a branch que tu quer]
 
 'git clone [URL]' pra tu pegar um negócio do 0 e criar a pasta
 
+# Markdown
+
+## Cabeçalhos
+
+<!--
+# Título
+## Subtítulo
+### descrição
+#### descriçã 2
+##### descriçã 3
+###### descriçã 4
+-->
+
+## Formatação de frase/palavra
+
+*italico* ou __italico__
+
+**negrito** ou __negrito__
+
+___italico e negrito___ 
+
+## Formatação de texto
+
+- Lista 1
+- Lista 2
+    - Sublista
+
+1. Lista 1
+2. Lista 2
+    1. Sublista
+
+## Links e imagem
+
+[Texto da imagem](URL)
+
+![Texto da imagem, vai mostrar a imagem aqui](URL)
