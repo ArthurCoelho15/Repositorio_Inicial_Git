@@ -58,8 +58,14 @@ Gist = Trecho de código, parece um repositório mas bem menor.
 
 // Fazendo coisa local 
 
+/ Upar coisa no github
 git add. 
 git status
 git commit -m "escreve o papo"
 git push origin [a branch que tu quer]
+
+/ Puxar coisa do github
+° 'git pull' pra atualizar oq tu já tem
+
+° 'git clone [URL]' pra tu pegar um negócio do 0 e criar a pasta
 
