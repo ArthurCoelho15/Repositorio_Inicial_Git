@@ -104,9 +104,9 @@ git push origin [a branch que tu quer]
 
 'git clone [URL]' pra tu pegar um negócio do 0 e criar a pasta
 
-# Markdown
+# Markdown 🦺
 
-## Cabeçalhos
+## Cabeçalhos 🧠
 
 
 1. '# Título'
