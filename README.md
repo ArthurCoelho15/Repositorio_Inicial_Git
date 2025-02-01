@@ -2,7 +2,7 @@
 Repositório criado para estudar git, aulas iniciais da DIO - parei em tags
 <!-- pra botar emogi é Windows + . -->
 
-## Comandos Git 💻
+## Comandos GI 💻
 
 1. git init 
     - Inicia um novo repositório git na pasta atual
@@ -85,7 +85,7 @@ Repositório criado para estudar git, aulas iniciais da DIO - parei em tags
 6. Wikis
     - Documenta de forma mais organizada e profissional, NÃO é um readme.
     - As wikis funcionam detalhar cada etapa do projeto, testes, atualizações, correção de bugs, etc.
-    - Aqui mostra o histórico de atualizações, as alterações em cada versão, talvez a explicação e algo.
+    - Aqui a gente pode detalhar o que aconteceu em cada versão, cada mudança, passo a passo, pipipipopopo.
 
 # Prática 🧨
 
@@ -141,3 +141,9 @@ ___italico e negrito___
 1. [Texto da imagem](https://foundations.projectpythia.org/_images/GitHub-logo.png)
 
 2. ![Texto da imagem, vai mostrar a imagem aqui](https://foundations.projectpythia.org/_images/GitHub-logo.png)
+
+# Referências
+
+1. Git --> https://git-scm.com/
+2. GitHub --> https://docs.github.com/
+3. PowerPoint Git e GitHub
