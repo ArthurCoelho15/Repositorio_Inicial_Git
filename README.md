@@ -85,6 +85,7 @@ Repositório criado para estudar git, aulas iniciais da DIO - parei em tags
 6. Wikis
     - Documenta de forma mais organizada e profissional, NÃO é um readme.
     - As wikis funcionam detalhar cada etapa do projeto, testes, atualizações, correção de bugs, etc.
+    - Aqui a gente pode detalhar o que aconteceu em cada versão, cada mudança, passo a passo, pipipipopopo.
 
 # Prática 🧨
 
